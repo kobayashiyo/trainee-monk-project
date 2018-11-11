@@ -1,4 +1,4 @@
-package no1.before;
+package no01.before;
 
 public class Boolean {
 
