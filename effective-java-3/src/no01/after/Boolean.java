@@ -1,4 +1,4 @@
-package no1.after;
+package no01.after;
 import java.io.Serializable;
 
 //バイナリにできるようにSerializableマーカーを実装
